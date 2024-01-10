@@ -1,3 +1,3 @@
-module github.com/Yoolayn/learn-go-with-tests
+module hello
 
 go 1.21.5
